@@ -12,3 +12,6 @@ cache:
     - node_modules
 notifications:
   email:       false
+  
+baseurl: ""
+url: "https://Saurabhm987.github.io"
